@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Umer
 
-A passionate **software developer** & **AI enthusiast** with over **1.5 years of industry experience**.
+A passionate **software developer** & **AI enthusiast** with over **2+ years of industry experience**.
 
 ![Profile views](https://komarev.com/ghpvc/?username=moneebbhatti9&color=blue)
 
